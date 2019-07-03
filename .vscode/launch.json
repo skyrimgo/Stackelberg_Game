@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "com.szy.Main",
+            "projectName": "Stackelberg_bbbee4a0"
+        }
+    ]
+}
